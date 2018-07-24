@@ -1,0 +1,16 @@
+body{
+  background: url("images/background4.jpg")no-repeat;
+  background-size: cover;
+  font-family: cursive;
+  color: blue;
+  margin-left: 500px;
+  }
+a{
+  text-decoration: none;
+  text-size :10px;
+  background-color: orange;
+  border-radius: 20px;
+}
+a:hover{
+  background-color: green;
+}
