@@ -47,12 +47,13 @@ h1{
   margin-left: 200px;
   font-family: cursive;
   background-color: black;
+  border-radius:20%;
   width: 65%;
   font-weight: bold;
 }
 .moses{
   float: left;
-  border-radius: 50%;
+  border-radius: 20px;
   background-color: black;
 }
 
