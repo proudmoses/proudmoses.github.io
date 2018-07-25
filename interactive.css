@@ -3,6 +3,9 @@ body{
   background-size: cover;
   font-family: cursive;
   color: white;
+  width:80%;
+  margin:auto;
+  height:100%;
 }
 ul{
   margin: 0px;
